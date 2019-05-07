@@ -1,2 +1,2 @@
 # medical-terminology-form
-using node.js, NPM and mongoose
+using Node, Express and mongoose
